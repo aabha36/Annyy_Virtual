@@ -33,5 +33,5 @@ virtual-assistant/
     ├── script.js
     └── ...
 
-Feel free to replace `[Anamika]` and `[License information here]` with the relevant information. Once copied, you can paste this content directly into your GitHub README.md file.
+
 
